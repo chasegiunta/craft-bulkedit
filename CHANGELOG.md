@@ -5,6 +5,7 @@
 ### Fixed
 
 - Fixed bulk editing Matrix fields on Craft 5 by rendering their inputs with a saved entry owner.
+- Fixed fields with layout-specific handle overrides being rendered and saved with the wrong handle.
 
 ## 5.0.0-beta.1 - 2024-09-26
 
